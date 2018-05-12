@@ -2,3 +2,7 @@
 
 #EXTINF:台視
 https://livestream-udn.ivideosmart.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8
+
+#EXTINF:台視1
+https://livestream-udn.ivideosmart.com/ttvmainliveorigin/TTVMainStream/chunklist.m3u8
+
